@@ -14,7 +14,7 @@ import Summary from './components/Summary';
 
 //Summary
 ////Cart
-//////Total
+////Total
 
 ////////////////////////////////////////////////
 
